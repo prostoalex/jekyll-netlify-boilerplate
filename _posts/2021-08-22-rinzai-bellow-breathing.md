@@ -3,6 +3,7 @@ layout: post
 title: Rinzai bellow breathing
 author: john_doe
 date: 2021-08-21 17:12:52
+categories: zen
 ---
 There are many ways of deep breathing but the following method is the one I use. I exhale long with my mouth open as if trying to connect the air around me with my lower abdomen. Without using my throat or chest, I keep exhaling a long fine stream of air using the contracting power of my lower abdomen and try to empty the bottom of my chest. 
 
